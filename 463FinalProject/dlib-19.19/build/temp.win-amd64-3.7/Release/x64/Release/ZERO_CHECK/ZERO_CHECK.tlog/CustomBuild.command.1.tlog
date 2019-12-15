@@ -1,0 +1,10 @@
+^C:\USERS\JONAT\DESKTOP\463FINALPROJECT\DLIB-19.19\BUILD\TEMP.WIN-AMD64-3.7\RELEASE\CMAKEFILES\BFE76FD003B8BBE3527E89AD1FEE3AF3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jonat/Desktop/463FinalProject/dlib-19.19/tools/python -BC:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/temp.win-amd64-3.7/Release --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/temp.win-amd64-3.7/Release/dlib_python_bindings.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

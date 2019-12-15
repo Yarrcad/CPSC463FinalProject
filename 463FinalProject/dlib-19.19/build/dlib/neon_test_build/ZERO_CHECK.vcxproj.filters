@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jonat\Desktop\463FinalProject\dlib-19.19\build\dlib\neon_test_build\CMakeFiles\caa2f7c7442b8a839e628d522bb6beb1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{46F985F9-AB82-327E-B4EF-8C855CCDB2A2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

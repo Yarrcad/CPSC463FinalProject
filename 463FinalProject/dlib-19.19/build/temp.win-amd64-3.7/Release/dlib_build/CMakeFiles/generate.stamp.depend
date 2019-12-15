@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.16/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckFortranFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckFunctionExists.c
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckTypeSize.c.in
+C:/Program Files/CMake/share/cmake-3.16/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindBLAS.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindGIF.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.16/Modules/GNUInstallDirs.cmake
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/temp.win-amd64-3.7/Release/CMakeFiles/CheckTypeSize/SIZE_OF_VOID_PTR.c
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/CMakeLists.txt
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/check_if_avx_instructions_executable_on_host.cmake
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/check_if_neon_available.cmake
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/check_if_sse4_instructions_executable_on_host.cmake
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/find_blas.cmake
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/find_libjpeg.cmake
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/find_libpng.cmake
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/release_build_by_default
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/set_compiler_specific_options.cmake
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/test_for_cudnn/find_cudnn.txt
+C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/use_cpp_11.cmake

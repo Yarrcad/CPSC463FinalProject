@@ -1,0 +1,26 @@
+^C:\USERS\JONAT\DESKTOP\463FINALPROJECT\DLIB-19.19\DLIB\CMAKE_UTILS\TEST_FOR_CUDA\CUDA_TEST.CU
+setlocal
+cd C:\Users\jonat\Desktop\463FinalProject\dlib-19.19\build\dlib\cuda_test_build\CMakeFiles\cuda_test.dir
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/dlib/cuda_test_build/CMakeFiles/cuda_test.dir//Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.22.27905/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/dlib/cuda_test_build/CMakeFiles/cuda_test.dir//Debug/cuda_test_generated_cuda_test.cu.obj -D generated_cubin_file:STRING=C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/dlib/cuda_test_build/CMakeFiles/cuda_test.dir//Debug/cuda_test_generated_cuda_test.cu.obj.cubin.txt -P C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/dlib/cuda_test_build/CMakeFiles/cuda_test.dir//cuda_test_generated_cuda_test.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JONAT\DESKTOP\463FINALPROJECT\DLIB-19.19\DLIB\CMAKE_UTILS\TEST_FOR_CUDA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jonat/Desktop/463FinalProject/dlib-19.19/dlib/cmake_utils/test_for_cuda -BC:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/dlib/cuda_test_build --check-stamp-file C:/Users/jonat/Desktop/463FinalProject/dlib-19.19/build/dlib/cuda_test_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

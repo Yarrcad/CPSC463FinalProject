@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jonat\Desktop\463FinalProject\dlib-19.19\build\temp.win-amd64-3.7\Release\dlib_build\cuda_test_build\CMakeFiles\409bd74c0f5f14dc686309f8e0a3569a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F6C5C3A7-4C33-38F1-AF68-87D04D7F552A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

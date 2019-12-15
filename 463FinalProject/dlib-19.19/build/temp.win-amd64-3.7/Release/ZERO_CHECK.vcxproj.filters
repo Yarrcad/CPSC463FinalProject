@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jonat\Desktop\463FinalProject\dlib-19.19\build\temp.win-amd64-3.7\Release\CMakeFiles\bfe76fd003b8bbe3527e89ad1fee3af3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C82CC6CD-2E47-3B61-9267-008B993FAB0B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
